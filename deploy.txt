@@ -1,0 +1,3 @@
+Capston2 - link deploy
+customer :  https://hanh28111995.github.io/capston2_customer/
+admin: 	    https://hanh28111995.github.io/capston2_admin/app/views/	
