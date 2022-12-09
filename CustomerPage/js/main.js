@@ -194,7 +194,7 @@ function renderList(arr, filterValue) {
     calcTotalPrice();
 }
 
-//Lấy data của teachers từ server và render ra màng hình
+//Lấy data từ server và render ra màng hình
 function getListPhones() {
     services.getListPhonesAPI()
         .then(function (result) {
